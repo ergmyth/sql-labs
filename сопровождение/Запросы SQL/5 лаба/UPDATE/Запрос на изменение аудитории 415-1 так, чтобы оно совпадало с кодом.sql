@@ -1,0 +1,6 @@
+UPDATE AUDITORIUM SET AUDITORIUM_NAME='415-1U' 
+where "AUDITORIUM"."AUDITORIUM"='415-1'; 
+/*Обновление имени аудитории*/
+UPDATE AUDITORIUM SET AUDITORIUM='415-1U' 
+where AUDITORIUM_NAME='415-1U';
+/*Обновление кода аудитории*/

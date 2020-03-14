@@ -1,0 +1,12 @@
+DELETE FROM AUDITORIUM where AUDITORIUM_CAPACITY BETWEEN 21 and 59;
+Insert into AUDITORIUM VALUES ('111-4','หส','50','111-4');
+Insert into AUDITORIUM VALUES ('131-4','หม-ส','22','131-4');
+Insert into AUDITORIUM VALUES ('137-4','หส','50','137-4');
+Insert into AUDITORIUM VALUES ('301-1','หม-ัส','22','301-1');
+Insert into AUDITORIUM VALUES ('304-4','หม-ส','25','304-4');
+Insert into AUDITORIUM VALUES ('309-1','หม-ัส','24','309-1');
+Insert into AUDITORIUM VALUES ('310เ-1','หม-ส','22','310เ-1');
+Insert into AUDITORIUM VALUES ('410-3เ','หม-ี','22','410-3เ');
+Insert into AUDITORIUM VALUES ('413-1','หม-ส','22','413-1');
+Insert into AUDITORIUM VALUES ('415-1U','หม-ี','24','415-1U');
+Insert into AUDITORIUM VALUES ('423-1','หม-ส','22','423-1');
